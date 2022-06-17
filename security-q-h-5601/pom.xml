@@ -109,7 +109,7 @@
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
-            <version>1.2.56</version>
+            <version>1.2.83</version>
         </dependency>
 
         <!--  //po类方法自动编译补全，还需要配置idea，在设置插件里 ，然后采集菜单栏 view - tool windows  -structure 开启预览窗口 -->
